@@ -1,0 +1,15 @@
+.heading{
+width: 100%;
+
+}
+body{
+background-color:cadetblue;
+
+}
+#camera, #result{
+    border-width: 4px;
+    border-color:blue;
+    border-style:inset;
+    width: 300px;
+    height: 300px;
+}
